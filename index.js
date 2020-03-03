@@ -1,10 +1,5 @@
 function takeANumber(current, newName){
-  let num = current.length + 1;
-  let temp = [];
-  //for(let i=0;i<newName.length;i++){
-    temp[0] = "Welcome, " + newName + ". You are number " + num + " in line.";
-  //}
-  return temp;
+  
 }
 
 function nowServing(katzDeliLine){
